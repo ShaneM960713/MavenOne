@@ -32,6 +32,7 @@ public class App {
         System.out.println("\n\nThe largest number is: " + largestNumber);
 
 
+        System.out.println("The smallest number is: " + smallestNumber);
 
 
     }
